@@ -4,7 +4,7 @@
 ### Freelancing Software developer, entrepreneur.
 
 
-Hace mucho tiempo empece a interesarme por el mundo del desarrollo de software, simepre enfocado al mundo de las startups, así que comencé a especializarme de forma autodidacta en el campo de desarrollo de aplicaciones moviles, hasta hoy.
+Hace mucho tiempo empece a interesarme por el mundo del desarrollo de software, siempre enfocado al mundo de las startups, así que comencé a especializarme de forma autodidacta en el campo de desarrollo de aplicaciones moviles, hasta hoy.
 
 
 ## Tecnologías:
