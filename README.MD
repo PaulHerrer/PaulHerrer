@@ -40,6 +40,6 @@ Hace mucho tiempo empece a interesarme por el mundo del desarrollo de software, 
 ## Contáctame:
 
 
-[![Email](https://img.shields.io/badge/proyectostartup@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:proyectostartup@gmail.com)
+[![Email](https://img.shields.io/badge/proyectostartup@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:proyectostartup@gmail.com)
 </br>
 
