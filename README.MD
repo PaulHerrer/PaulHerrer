@@ -6,13 +6,18 @@
 Long time ago I started beeing interested in this branch of technology, now a days I've my objetives setted. The only thing that is 100% shure is that I won't stop learning new things about this huge world.
 
 ##Technologies.
-[![Python](https://img.shields.io/badge/Python-Pablo_Herrera-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)](https://github.com/pabloherrera)
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Pablo_Herrera-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)](https://github.com/pabloherrera)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)](https://github.com/pabloherrera)
+</br>
 
-[![HTML](https://img.shields.io/badge/HTML-Pablo_Herrera-DD4B25?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD4B25)](https://github.com/pabloherrera)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)](https://github.com/pabloherrera)
+</br>
 
-[![CSS](https://img.shields.io/badge/CSS-Pablo_Herrera-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://github.com/pabloherrera)
+[![HTML](https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD4B25)](https://github.com/pabloherrera)
+</br>
+
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://github.com/pabloherrera)
+</br>
 
 ## Find me:
 
