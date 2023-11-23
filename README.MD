@@ -7,28 +7,27 @@ Long time ago I started beeing interested in this branch of technology, now a da
 
 ##Technologies.
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)](https://github.com/pabloherrera)
-</br>
+I use a variety of technologies in my projects. Here are some of them:
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)](https://github.com/pabloherrera)
-</br>
+<div style="background-color:yellow; padding:10px">
+  <strong>Python</strong>
+</div>
 
-[![HTML](https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD4B25)](https://github.com/pabloherrera)
-</br>
+<div style="background-color:orange; padding:10px">
+  <strong>Jupyter Notebooks</strong>
+</div>
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://github.com/pabloherrera)
-</br>
+<div style="background-color:orange; padding:10px">
+  <strong>HTML</strong>
+</div>
 
-## Find me:
+<div style="background-color:blue; padding:10px">
+  <strong>CSS</strong>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pablo-herrera-gonz%C3%A1lez-448794266/)
-</br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-Pablo_Herrera-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/pabloherrera)
-</br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-Pablo_Herrera-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFC0CB)](https://www.instagram.com/pabloherrera/)
-</br>
+<div style="background-color:#FF8C00; padding:10px">
+  <strong>Git</strong>
+</div>
 
 
 ## Get in Touch:
